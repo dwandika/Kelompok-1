@@ -162,7 +162,7 @@ public class app_kelompok1 extends javax.swing.JFrame {
     }//GEN-LAST:event_B2ActionPerformed
 
     private void B4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B4ActionPerformed
-        // TODO add your handling code here:
+         new aprilia().setVisible(true);
     }//GEN-LAST:event_B4ActionPerformed
 
     private void B3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B3ActionPerformed
