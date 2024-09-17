@@ -170,7 +170,7 @@ public class app_kelompok1 extends javax.swing.JFrame {
     }//GEN-LAST:event_B3ActionPerformed
 
     private void B5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B5ActionPerformed
-        // TODO add your handling code here:
+        new YusupAdi().setVisible(true);
     }//GEN-LAST:event_B5ActionPerformed
 
     private void B6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B6ActionPerformed
