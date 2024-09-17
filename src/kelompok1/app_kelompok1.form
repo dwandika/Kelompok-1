@@ -44,13 +44,13 @@
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace pref="86" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="jButton7" max="32767" attributes="0"/>
-                      <Component id="jButton6" max="32767" attributes="0"/>
-                      <Component id="jButton5" max="32767" attributes="0"/>
-                      <Component id="jButton4" max="32767" attributes="0"/>
-                      <Component id="jButton3" max="32767" attributes="0"/>
-                      <Component id="jButton1" max="32767" attributes="0"/>
-                      <Component id="jButton2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="B7" max="32767" attributes="0"/>
+                      <Component id="B6" max="32767" attributes="0"/>
+                      <Component id="B5" max="32767" attributes="0"/>
+                      <Component id="B3" max="32767" attributes="0"/>
+                      <Component id="B4" max="32767" attributes="0"/>
+                      <Component id="B1" max="32767" attributes="0"/>
+                      <Component id="B2" alignment="0" max="32767" attributes="0"/>
                       <Group type="102" alignment="1" attributes="0">
                           <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
@@ -66,19 +66,19 @@
                   <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
                   <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <Component id="B1" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  <Component id="B2" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+                  <Component id="B3" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                  <Component id="B4" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                  <Component id="B5" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton6" min="-2" max="-2" attributes="0"/>
+                  <Component id="B6" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                  <Component id="jButton7" min="-2" max="-2" attributes="0"/>
+                  <Component id="B7" min="-2" max="-2" attributes="0"/>
                   <EmptySpace pref="335" max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -93,61 +93,61 @@
             <Property name="text" type="java.lang.String" value="KELOMPOK 1"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton1">
+        <Component class="javax.swing.JButton" name="B1">
           <Properties>
             <Property name="text" type="java.lang.String" value="Mochamad Dwi Andika"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B1ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton2">
+        <Component class="javax.swing.JButton" name="B2">
           <Properties>
             <Property name="text" type="java.lang.String" value="Shifaaun Nuriyah"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B2ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton3">
+        <Component class="javax.swing.JButton" name="B4">
           <Properties>
             <Property name="text" type="java.lang.String" value="Muhammad Zainal Arifin "/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B4ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton4">
+        <Component class="javax.swing.JButton" name="B3">
           <Properties>
             <Property name="text" type="java.lang.String" value="Aprilia Dwi Ruliyanti "/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B3ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton5">
+        <Component class="javax.swing.JButton" name="B5">
           <Properties>
             <Property name="text" type="java.lang.String" value="Muhammad Yusup Adi Saputra"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B5ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton6">
+        <Component class="javax.swing.JButton" name="B6">
           <Properties>
             <Property name="text" type="java.lang.String" value="Muhammad&#xa0;Zainul&#xa0;Fuadhi"/>
             <Property name="toolTipText" type="java.lang.String" value=""/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B6ActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton7">
+        <Component class="javax.swing.JButton" name="B7">
           <Properties>
             <Property name="text" type="java.lang.String" value="Ahsin Sakhok"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B7ActionPerformed"/>
           </Events>
         </Component>
       </SubComponents>
