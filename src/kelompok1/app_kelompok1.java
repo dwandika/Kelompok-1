@@ -162,15 +162,15 @@ public class app_kelompok1 extends javax.swing.JFrame {
     }//GEN-LAST:event_B2ActionPerformed
 
     private void B4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B4ActionPerformed
-         new aprilia().setVisible(true);
+         new ZAINAL().setVisible(true);
     }//GEN-LAST:event_B4ActionPerformed
 
     private void B3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B3ActionPerformed
-        // TODO add your handling code here:
+        new aprilia().setVisible(true);
     }//GEN-LAST:event_B3ActionPerformed
 
     private void B5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B5ActionPerformed
-        // TODO add your handling code here:
+        new YusupAdi().setVisible(true);
     }//GEN-LAST:event_B5ActionPerformed
 
     private void B6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B6ActionPerformed
