@@ -174,7 +174,7 @@ public class app_kelompok1 extends javax.swing.JFrame {
     }//GEN-LAST:event_B5ActionPerformed
 
     private void B6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B6ActionPerformed
-        new Andika().setVisible(true);
+        new Fuadhi().setVisible(true);
     }//GEN-LAST:event_B6ActionPerformed
 
     private void B7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_B7ActionPerformed
